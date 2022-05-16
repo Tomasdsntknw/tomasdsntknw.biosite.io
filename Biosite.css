@@ -1,0 +1,200 @@
+body {
+    background-image: linear-gradient(to right,#AEB5FB, #FBCEAE);
+    font-family:'Lobster';
+    margin: 0%;
+}
+
+header {
+    background-color: #AEFBF4;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    color: #2B3F39;
+    font-family:'Lobster';
+    padding: 20px;
+    text-align: center;
+}
+
+#bio-content {
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-right: 7%;
+    transition: 0.3s;
+}
+
+#bio-content-g {
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-right: 7%;
+    transition: 0.3s;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+#navbar {
+    background-color: #FBAEDB;
+    overflow: hidden;
+}
+
+#navbar a {
+    color: #2B3F39;
+    display:ruby ;
+    font-family:'Sorts Mill Goudy', serif;
+    font-weight: 700;
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-image: linear-gradient(to right, #AEFBF4, #FBAEDB);
+    color: #2B3F39;
+}
+
+#title {
+    color: #2B3F39;
+    font-family:'Lobster';
+    padding: 20px;
+    text-align: center;
+}
+
+#interview {
+    font-family: 'Sorts Mill Goudy, serif';
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: start;
+}
+
+#about {
+    font-family: 'Sorts Mill Goudy, serif';
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: start;
+}
+
+#hobbies {
+    font-family: 'Sorts Mill Goudy, serif';
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: start;
+}
+
+#h-gallery {
+    font-family: 'Sorts Mill Goudy, serif';
+    margin-bottom: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: start;
+}
+
+#image-gallery {
+    align-content: center;
+    display: grid;
+}
+
+.land-a img {
+    width: 400px; 
+    height: 400px;
+}
+
+.land-b img {
+    width: 420px; 
+    height: 600px;
+}
+
+#a-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.jp img {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 250x; 
+    height: 320px;
+}
+
+.fam img {
+    width: 550px; 
+    height: 320px;
+}
+
+.cj img {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 250px;
+    height: 150px;
+}
+
+.cd img {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 250px; 
+    height: 380px;
+}
+
+.jogt img {
+    margin-left: 1%;
+    margin-right: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 250px;
+    height: 300px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    color: #2B3F39;
+    font-family:'Sorts Mill Goudy', serif;
+    font-style: italic;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#container {
+    color: #2B3F39;
+    padding: 10px;
+    text-align: center;
+}
+
+#style-list {
+    color: #2B3F39;
+    font-family:'Sorts Mill Goudy', serif;
+    list-style-position: inside;
+    margin-left: 33%;
+    text-align: left;
+}
+
+#container-video {
+    align-content: center;
+    color: #2B3F39;
+    font-family:'Lobster';
+    margin-bottom: 5%;
+    padding: 2px 16px;
+    text-align: center;
+}
+
+#bottom-space {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 2px 16px;
+
+}
